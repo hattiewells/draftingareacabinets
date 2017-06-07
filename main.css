@@ -5,14 +5,3 @@ html, body{
   font-weight: 300;
 
 }
-.gallery{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  
-}
-
-.gallery-item{
-  height: 200px;
-  width: 50%;
-}
