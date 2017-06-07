@@ -15,5 +15,6 @@ html, body{
 .gallery-item{
     margin:20px;
     margin-left: 30px;
-  
+  height: 200px;
+  width: 200px;
 }
