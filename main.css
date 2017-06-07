@@ -12,7 +12,8 @@ body{
   justify-content:center;
 }
 
-.gallery-item{
+.thumbnail{
   margin: 20px;
-  
+  height: 500px;
+  width: auto;
 }
